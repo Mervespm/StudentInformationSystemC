@@ -1,0 +1,6 @@
+22011001,Merve,Karabulut,10,3
+22011002,Fatma,Bulut,10,3
+22011003,Volkan,Kilic,4,1
+22011004,Hande,Tekin,9,2
+22011009,Fatih,Yurt,9,2
+22011011,Emrecan,Ozturk,0,0

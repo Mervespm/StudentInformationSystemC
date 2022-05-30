@@ -1,0 +1,7 @@
+BLM1022,Sayisal Analiz,3,80
+BLM1032,Devre Teorisi,6,180
+BLM2051,Seminer,0,90
+BLM3021,Algoritma Analizi,3,60
+ITB3360,Sanat Tarihi,3,70
+MAT1071,Matematik 1,4,120
+MDB1031,Ileri Ingizce 1,3,35
